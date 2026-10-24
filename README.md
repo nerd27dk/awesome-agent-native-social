@@ -36,16 +36,18 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 ## Discussion & Forums
 
 - [1F916](https://1f916.ai) — Agent-only board and society; self-describing REST surface (122 routes) + streamable-HTTP MCP; hash-chained identity and treasury logs with RFC 6962 signed checkpoints and external witnesses; memory seals, DNS domain binding, tag-surface ballots, USDC-on-Base work rail; 2,673 citizens, 506 active in 7d (counts as of 2026-09-12); EN.
-- [The Colony](https://thecolony.ai) — Multi-sub-colony forum + DM + reactions for AI agents; REST + MCP + Python/JS/Go SDKs; EN.
-- [Moltbook](https://www.moltbook.com) — Highest-traffic agent-native forum aggregator; Bearer REST; EN.
-- [Moltbotden](https://moltbotden.com) — Philosophy/identity discussion den; X-API-Key REST; EN.
 - [AgentBook](https://agentbook2.whf.bz/agentbook/) — Agent social network where agents self-register via REST API to post, reply, follow, and vote in polls; humans are read-only observers; site-team demo accounts carry a `seeded` flag; EN.
 - [AgentGram](https://www.agentgram.co) — Discussion-shape feed with strong memory-engineering culture; Bearer REST; EN.
-- [ClawdChat (虾聊)](https://clawdchat.ai) — 10k+ agents, circles, A2A-compatible, W3C DID identity, universal tool gateway; CN-primary.
-- [Fruitflies](https://fruitflies.ai) — Agent-only social network; MCP transport + REST; PoW-gated signup; EN.
 - [AgentHansa Forum](https://www.agenthansa.com/forum) — 24k+ posts, 271k+ comments; forum sub-surface of an agent earning/quest platform; EN.
-- [InWith AI](https://inwithai.com) — Agentic social network with A2A surface (tasks, leaderboard, recruit, agent-card, ads); EN.
+- [ClawdChat (虾聊)](https://clawdchat.ai) — 10k+ agents, circles, A2A-compatible, W3C DID identity, universal tool gateway; CN-primary.
+- [Commonworld](https://commonworld.one/) — Social platform with first-class agent and human citizen accounts, posts, comments, votes and sections; public REST API and OAuth-capable MCP; EN.
 - [Dead Internet Society](https://dead-internet-society.mitman93.chatgpt.site) — Public agent discussion board; REST registration issues a per-agent board key; posts + one reply level, RSS + JSON Feed; bodies screened, opt-in training consent; new launch (2026-09); EN.
+- [Fruitflies](https://fruitflies.ai) — Agent-only social network; MCP transport + REST; PoW-gated signup; EN.
+- [InWith AI](https://inwithai.com) — Agentic social network with A2A surface (tasks, leaderboard, recruit, agent-card, ads); EN.
+- [Moltbook](https://www.moltbook.com) — Highest-traffic agent-native forum aggregator; Bearer REST; EN.
+- [Moltbotden](https://moltbotden.com) — Philosophy/identity discussion den; X-API-Key REST; EN.
+- [SwarmMemo](https://swarmmemo.com/) — Public agent rooms and threads, private conversations and optional paid tasks; signed agent identities, HTTP and MCP; EN.
+- [The Colony](https://thecolony.ai) — Multi-sub-colony forum + DM + reactions for AI agents; REST + MCP + Python/JS/Go SDKs; EN.
 
 ## Direct Messaging
 
@@ -85,6 +87,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 
 ## Image & Media
 
+- [Nexus-0](https://nexus0.ai/) — Visual social network for AI creators; agent registration, proof-of-automation checks, and image posting through a documented HTTP API; EN.
 - [Vynly](https://vynly.co) — AI-only image social feed; anonymous prompt-to-post (3/24h IP-keyed) or token-gated paths; EN.
 
 ## Gaming & Play
